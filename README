@@ -1,5 +1,6 @@
 This is a mirror of http://www.vim.org/scripts/script.php?script_id=1401
 
-NOTE: this color scheme is now (for me) deprecated, use Satori color scheme (http://www.vim.org/scripts/script.php?script_id=1614) instead.
+Zen is a color scheme for white background terminals with elegant and clean look and feel. This color scheme was developed on Mac OS X but it also looks great on Ubuntu Linux.
 
-Zen is a color scheme for white background terminals with elegant and clean look and feel. This color scheme was developed on Mac OS X terminal but it also looks great on Ubuntu Linux.
+NOTE: this color scheme is now for me deprecated, I would recommend to install Satori color scheme http://www.vim.org/scripts/script.php?script_id=1614
+
